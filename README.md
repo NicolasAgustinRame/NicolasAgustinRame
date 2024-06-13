@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Nicolas</a> 👋</h1>
 </div>
-<hr>
 <img src="https://i.imgur.com/LyS6HVT.jpeg">
 <p align="center">
 <hr>
