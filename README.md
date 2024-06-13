@@ -8,7 +8,7 @@
 
 - 🖥️Junior Developer
 - 📚Estudiante en Universidad Tecnológica Nacional
-- 📝Aprendiendo y formandome en: <br> <br> 
+- 📝Aprendiendo y formandome en: <br> 
 
 <p align="left">
   <a href="https://skillicons.dev">
