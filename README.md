@@ -8,7 +8,7 @@
 - 🖥️Junior Developer
 - 📚Estudiante en Universidad Tecnológica Nacional
 - 📝Aprendiendo y formandome en: <br>
-  [!js](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+  [[!js](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)]
 <br>
   <hr>
 <a href="https://github.com/NicolasAgustinRame">
