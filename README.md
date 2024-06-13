@@ -3,6 +3,7 @@
 </div>
 <img src="https://i.imgur.com/LyS6HVT.jpeg">
 <p align="center">
+  
 ## Sobre mi
 
 - 🖥️Junior Developer
