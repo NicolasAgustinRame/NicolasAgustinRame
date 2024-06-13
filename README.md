@@ -16,7 +16,14 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%20-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,dotnet,css,html,js,mysql,sqlite,s&perline=12" />
+  </a>
+</p>
 <br>
   <hr>
 <a href="https://github.com/NicolasAgustinRame">
