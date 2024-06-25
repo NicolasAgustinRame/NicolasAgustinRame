@@ -15,7 +15,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,java,spring,mysql,sqlite,s&perline=12" />
   </a>
 </p>
-<br>
   <hr>
 <a href="https://github.com/NicolasAgustinRame">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NicolasAgustinRame&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
