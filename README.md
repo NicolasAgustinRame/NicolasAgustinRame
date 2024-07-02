@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi, Im<a href="https://aristi.dev"> Nicolas</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40"/>
+<h1 align="center">Hi, Im<a href="https://aristi.dev"> Nicolas</a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40"/>
 </h1>
 </div>
 <img src="https://i.imgur.com/LyS6HVT.jpeg">
 <p align="center">
   
-## About me
+## About me<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="30" height="30" />
 
 - 🖥️Junior Developer
 - 📚Student at the Universidad Tecnológica Nacional - FRC
