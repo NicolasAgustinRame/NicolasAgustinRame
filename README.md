@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, Im<a href="https://aristi.dev"> Nicolas</a><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px">
+<h1 align="center">Hi, Im<a href="https://aristi.dev"> Nicolas</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px">
 </h1>
 </div>
 <img src="https://i.imgur.com/LyS6HVT.jpeg">
