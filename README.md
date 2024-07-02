@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/LyS6HVT.jpeg">
 <p align="center">
   
-## About me<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="30" height="30" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="40" height="40" /> About me
 
 - 🖥️Junior Developer
 - 📚Student at the Universidad Tecnológica Nacional - FRC
