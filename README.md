@@ -18,7 +18,7 @@
 </p>
   <hr>
 <a href="https://github.com/nicorame">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicorame\&show_icons=true\&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicorame\&show_icons=true\&theme=radical"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicorame&layout=compact&langs_count=8&theme=algolia"/> 
 </a>
 </p>
